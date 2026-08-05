@@ -1,0 +1,9 @@
+base/
+keys/
+android/app/build/
+android/build/
+android/.gradle/
+android/local.properties
+android/app/src/main/assets/
+node_modules/
+*.apk
